@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        bijoyFun();
     }
 
     void bijoyFun()
@@ -18,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         // create a new branch on git
         // push to that branch
         // create new pull request
+        // ok um done
+        // and initial this function 
     }
 }
 
